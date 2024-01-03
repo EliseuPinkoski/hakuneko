@@ -7,7 +7,7 @@ export default class SinensisScan extends WordPressMadaraNovel {
         super.id = 'sinensisscan';
         super.label = 'SinenSis  Scan';
         this.tags = [ 'manga', 'webtoon', 'portuguese', 'scanlation' ];
-        this.url = 'https://sinensisscans.com';
+        this.url = 'https://sinensisscan.net';
     }
 
     async _getPages(chapter) {
